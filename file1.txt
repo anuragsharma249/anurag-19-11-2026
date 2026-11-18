@@ -3,3 +3,4 @@ new text add in file2
 
 new things  add to file1 
 new things line 5 add to file1
+new things line 6 add to file1

@@ -1,2 +1,6 @@
 this is file1 for  git  course
 new text add in file2
+
+
+i am bug-fix file2 
+its 2026 and i am in trouble 

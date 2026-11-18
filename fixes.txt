@@ -1,1 +1,5 @@
 i am fix file  which is used to fix the bugs
+
+i am fix line 3 
+i am fix line 4
+i am  fix line 5

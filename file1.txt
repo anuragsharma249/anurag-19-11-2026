@@ -1,1 +1,2 @@
 this is file1 for  git  course
+new text add in file2
